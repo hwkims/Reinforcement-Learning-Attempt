@@ -1,5 +1,6 @@
 # MapleWorld: In-Nae's Forest 2D Platformer - Reinforcement Learning Attempt
 https://www.youtube.com/watch?v=el8WPmIzRGk
+![image](https://github.com/user-attachments/assets/9d157157-efc6-4bf2-a342-2301348b9f5d)
 
 **MapleWorld** is a 2D platformer game based on the popular **MapleStory** game. This project attempts to utilize **Reinforcement Learning (RL)** to control a character in the **In-Nae's Forest** environment. The goal is to navigate platforms, avoid falling, and jump to reach the next platform, all while learning from the environment. Currently, the implementation focuses on capturing the game screen, detecting the platforms and character, and automating basic movement actions (left, right, jump).
 
